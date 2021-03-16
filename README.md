@@ -9,19 +9,19 @@
 ## Screenshots
 
 Search
-![Search page](https://github.com/ahmedrzakhan/Search-Bar-App/images/blob/master/images/search.png)
+![Search page](https://github.com/ahmedrzakhan/Search-Bar-App/blob/master/images/search.png)
 
 Loader
-![loader](https://github.com/ahmedrzakhan/Search-Bar-App/images/blob/master/images/loader.png)
+![loader](https://github.com/ahmedrzakhan/Search-Bar-App/blob/master/images/loader.png)
 
 Suggestions
-![suggestions](https://github.com/ahmedrzakhan/Search-Bar-App/images/blob/master/images/suggestions.png)
+![suggestions](https://github.com/ahmedrzakhan/Search-Bar-App/blob/master/images/suggestions.png)
 
 Key Navigation
-![key navigation](https://github.com/ahmedrzakhan/Search-Bar-App/images/blob/master/images/key_navigation.png)
+![key navigation](https://github.com/ahmedrzakhan/Search-Bar-App/blob/master/images/key_navigation.png)
 
 Person Details page
-![person details page](https://github.com/ahmedrzakhan/Search-Bar-App/images/blob/master/images/person_details.png)
+![person details page](https://github.com/ahmedrzakhan/Search-Bar-App/blob/master/images/person_details.png)
 
 Navigate through search suggestions using up, down arrow keys, on enter, user will be navigated to person details page
 
