@@ -6,6 +6,9 @@
 - React Router Dom
 - Styled Components
 
+## Live URL
+https://search-bar-star-wars.netlify.app/
+
 ## Screenshots
 
 Search
